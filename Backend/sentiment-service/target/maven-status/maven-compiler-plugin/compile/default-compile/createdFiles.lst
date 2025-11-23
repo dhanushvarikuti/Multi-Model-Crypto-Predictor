@@ -1,0 +1,6 @@
+com\tradingbot\sentiment_service\service\NewsService.class
+com\tradingbot\sentiment_service\dto\GNewsArticle.class
+com\tradingbot\sentiment_service\dto\GNewsResponse.class
+com\tradingbot\sentimentservice\SentimentServiceApplication.class
+com\tradingbot\sentiment_service\dto\GNewsSource.class
+com\tradingbot\sentiment_service\controller\NewsController.class
